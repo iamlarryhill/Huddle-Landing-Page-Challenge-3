@@ -503,7 +503,7 @@ a:hover {
   }
 
   .inner-box1 {
-    width: 50%;
+    width: 60%;
     position: static;
     margin: auto;
     display: grid;
@@ -512,7 +512,7 @@ a:hover {
   }
 
   .inner-box2 {
-    width: 50%;
+    width: 60%;
     position: static;
     margin: auto;
     display: grid;
@@ -520,6 +520,10 @@ a:hover {
     grid-template-rows: 0.5fr 3fr;
   }
 
+    .inner-box-icon {
+    text-align: center;
+  }
+  
   .curve1-1 {
     display: none;
   }
